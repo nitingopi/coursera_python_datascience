@@ -1,1 +1,13 @@
 data_env
+assignments
+resources/course1/datasets
+resources/course1/week-1/*
+!resources/course1/week-1/test.ipynb
+resources/course1/week-2/*
+!resources/course1/week-2/test.ipynb
+resources/course1/week-3/
+resources/course1/week-4/
+resources/course1/chris.tiff
+resources/course1/excel.png
+learning-the-pandas-libraray.pdf
+Untitled.ipynb
